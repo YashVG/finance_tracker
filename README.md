@@ -1,6 +1,6 @@
 # Finance Goal Setter
 
-## I chose to make a personal finance goal setter because I am a student myself, and managing where my money goes without any real structure or spending without setting limits can be a real hassle. I chose this project not only because it personally relates to me, but also because it has a wide scope for development since I can interview my peers at university to gauge a better idea on how to develop the idea
+## Fully tested finance tracker built in Java with console UI and GUI. 
 
 *Project goals*:
 
