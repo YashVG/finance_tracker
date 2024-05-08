@@ -1,0 +1,22 @@
+{
+  "name": "Yash's Fin Tracker",
+  "listOfExpenses": {"listOfExpenses": [{
+    "amount": 120,
+    "name": "bills",
+    "isRecurring": false
+  }]},
+  "listOfSavings": {"listOfSavings": [
+    {
+      "compoundRate": 0,
+      "isCompounding": false,
+      "amount": 12000,
+      "name": "college"
+    },
+    {
+      "compoundRate": 0.01,
+      "isCompounding": true,
+      "amount": 12000,
+      "name": "mutualFunds"
+    }
+  ]}
+}

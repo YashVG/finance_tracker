@@ -1,0 +1,34 @@
+{
+    "name": "Test Fin",
+    "listOfExpenses": {"listOfExpenses": [
+        {
+            "amount": 100,
+            "name": "light",
+            "isRecurring": false
+        },
+        {
+            "amount": 200,
+            "name": "credit card",
+            "isRecurring": true
+        },
+        {
+            "amount": 150,
+            "name": "food",
+            "isRecurring": true
+        }
+    ]},
+    "listOfSavings": {"listOfSavings": [
+        {
+            "compoundRate": 0,
+            "isCompounding": false,
+            "amount": 1200,
+            "name": "college"
+        },
+        {
+            "compoundRate": 0.09,
+            "isCompounding": true,
+            "amount": 1100,
+            "name": "mutual"
+        }
+    ]}
+}
